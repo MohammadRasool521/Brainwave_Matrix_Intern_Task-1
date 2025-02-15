@@ -1,4 +1,4 @@
-# SUPERSTORES SALES DASHBOARD
+# Superstore Sales Analysis
 I've developed a dynamic sales dashboard for Super Store that offers in-depth insights and Key highlights include:
 
 •⁠  ⁠*Sales Breakdown by Payment Mode, Region, Segment, and Shipping Method*
